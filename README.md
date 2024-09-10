@@ -11,7 +11,13 @@
 
 
 <!-- GitHub Stats-->
-# 📊 GitHub Stats:
+
+<div align="center" > 
+  
+### 📊 GitHub Stats:
+
+</div>
+
 
 [![](https://visitcount.itsvg.in/api?id=Nirmal-wishwantha&icon=0&color=1)](https://visitcount.itsvg.in)
 
@@ -42,7 +48,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,github,html,java,js,materialui,mongodb,mysql,nodejs,postman,react,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,idea,spring,git,css,github,html,java,js,materialui,mongodb,mysql,nodejs,postman,react,tailwind,vscode&perline=14" />
   </a>
 </p>
 
