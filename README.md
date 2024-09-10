@@ -13,17 +13,20 @@
 <!-- GitHub Stats-->
 
 <div align="center" > 
+
   
 ### 📊 GitHub Stats:
+
 
 </div>
 
 
 [![](https://visitcount.itsvg.in/api?id=Nirmal-wishwantha&icon=0&color=1)](https://visitcount.itsvg.in)
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
+
+| ![Nirmal's github stats](https://github-readme-stats.vercel.app/api?username=Nirmal-wishwantha&show_icons=true&theme=tokyonight) | ![Nirmal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nirmal-wishwantha&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal-wishwantha&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Nirmal-wishwantha&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 
   <!-- Top Contributed Repo-->
